@@ -21,3 +21,8 @@
 
 <!-- ...........4th Example............. -->
 ![Alt SKILLS Login Page](./Screenshot%202024-05-06%20122623.jpg)
+
+<!-- 5th -->
+- [x] Task 1
+- [] Task 2
+- [x] Task 1
