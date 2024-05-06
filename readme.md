@@ -5,8 +5,6 @@
 #### Level 4 Heading
 ##### Level 5 Heading
 
-<!-- ...........2nd Example............. -->
-
 *italic text*
 **bold text**
 [SKILLS CAREER](https://skills-career.com/)
