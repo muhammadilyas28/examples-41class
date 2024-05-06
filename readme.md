@@ -36,3 +36,10 @@ console.log("Hello, world")
 ---
 > this is a block quote
 > Ghaza bombarded
+
+<!-- ------7th----------- -->
+
+| Header 1 | Header 2 |
+|----------|----------|
+|   Row 1  |   Row 2  |
+|   Row 2  |   Row 2  |
