@@ -8,6 +8,8 @@
 <!-- ...........2nd Example............. -->
 
 *italic text*
+
+
 **bold text**
 [SKILLS CAREER](https://skills-career.com/)
 
